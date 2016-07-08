@@ -1,0 +1,6 @@
+2016-07-08 23:56:55,803 INFO  [Log4j] New driver instantiated 
+2016-07-08 23:56:55,814 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2016-07-08 23:56:57,381 INFO  [Log4j] Web application launched 
+2016-07-08 23:56:57,542 INFO  [Log4j] Username and password entered 
+2016-07-08 23:57:00,208 INFO  [Log4j] Verify elements present on page: hello value is "Hello, df fdfd!" 
+2016-07-08 23:57:00,296 INFO  [Log4j] Browser closed 
